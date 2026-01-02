@@ -1,0 +1,11 @@
+# CLI Framework
+typer[all]>=0.12.0
+
+# Testing
+pytest>=8.0.0
+pytest-cov>=4.1.0
+
+# Future dependencies (commented out for now)
+# fastapi>=0.109.0
+# uvicorn[standard]>=0.27.0
+# sqlalchemy>=2.0.0
